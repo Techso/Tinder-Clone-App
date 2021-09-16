@@ -1,0 +1,7 @@
+GET http://localhost:8001/cards HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Olaiya Ore",
+    "imgUrl": "N/A"
+}
